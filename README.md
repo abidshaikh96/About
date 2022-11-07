@@ -1,18 +1,18 @@
-I'm Abid Shaikh, a junior data engineer from 🇪🇬 India.
+I'm Abid Shaikh, a junior data Analyst from 🇪🇬 India.
 
 ✨ About Me ✨
 
-    🌍 Data engineer who loves to make impact
-    👨‍💻 Data Engineer at Unilever
+    🌍 Data analyst who loves to make impact
+    👨‍💻 Data analyst at shaaps
     ⚽ An avid lover of football
 
 ⚡️ Currently ⚡️
 
     Working on portfolio projects
-    Learning data orchestration using Airflow
+    Learning data analysis using sql,python, powerbi 
 
 💡 Core Competencies 💡
 
-    Tools: Python, SQL, MSSQL Server, BigQuery, Docker, Flask and Git
+    Tools: Python, SQL, MSSQL Server, Power bi, NumPy , Pandas  and Git
     Skills: Data Warehousing, Data Modeling, Data Pipelines, Data Cleaning & Transformation, ETLs and APIs
 
