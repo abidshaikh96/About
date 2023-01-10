@@ -9,7 +9,7 @@
 ✨ About Me ✨
 
     🌍 Data analyst who loves to make impact
-    👨‍💻 Data analyst at shaaps
+    👨‍💻 Data analyst at centtra solutions.
     ⚽ An avid lover of football</div>  
   
 
